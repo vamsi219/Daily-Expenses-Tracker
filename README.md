@@ -4,4 +4,4 @@ It is a Web development project I did while learning about Javascript. It helps 
 
 *The outline of the website designed looks like this:*
 
-![image](https://user-images.githubusercontent.com/69184171/204887383-4167fcdd-d51f-4545-8c30-3f5a43d567bd.png)
+![Screenshot 2022-12-02 065459](https://user-images.githubusercontent.com/69184171/205193795-f4c3718c-f57c-4871-a191-6568b0173eab.png)
